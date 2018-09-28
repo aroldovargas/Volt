@@ -1,0 +1,19 @@
+*nomes
+Aroldo
+Lorran
+Lucas
+Amarildo
+Jhonson
+*comidas
+Arroz
+Feijao
+Macarrao
+Maca
+*esportes
+Futebol
+Natacao
+Basquete
+*despedida
+Tchau
+Adeus
+Ate logo
